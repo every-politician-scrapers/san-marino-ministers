@@ -5,15 +5,15 @@
     },
     "cabinet": {
       "id": "",
-      "start": "",
+      "start": "2020-01-08",
       "parent": "Q3686960"
     },
     "source": {
-        "url":   "",
-        "title": "",
+        "url":   "http://www.kolumbus.fi/taglarsson/dokumentit/gen2020.htm",
+        "title": "CONGRESSO DI STATO  8.1.2020",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "it",
+            "wikidata": "Q652"
         }
     },
     "agent": "every-politican-scrapers/san-marino-ministers"
