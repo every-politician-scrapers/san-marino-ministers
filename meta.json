@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "San Marino",
+      "id": "Q238"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "",
+      "start": "",
+      "parent": "Q3686960"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "",
+        "title": "",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/san-marino-ministers"
 }
