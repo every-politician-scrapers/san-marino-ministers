@@ -7,17 +7,23 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      tds[1].text.encode("UTF-8", "Windows-1252").tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      tds[0].text.encode("UTF-8", "Windows-1252").tidy
+    end
+
+    private
+
+    def tds
+      noko.css('td')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.xpath('//table//tr[td[contains(.,"Segret")]]')
     end
   end
 end
