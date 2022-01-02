@@ -1,0 +1,142 @@
+{
+  "title": "Federico Pedini Amati",
+  "pageID": 16278319,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "Captains Regent of San Marino",
+    "Members of the Grand and General Council",
+    "Party of Socialists and Democrats politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Federico Pedini Amati (born 11 August 1976) is a political figure from San Marino.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "San Marino"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Federico Pedini Amati"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:FedericoPediniAmati.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/FedericoPediniAmati.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/FedericoPediniAmati.png",
+          "caption": "Federico Pedini Amati",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "year": "1976",
+          "month": "08",
+          "day": "11",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Federico Pedini Amati"
+          },
+          "imagesize": {
+            "text": "150px"
+          },
+          "order": {
+            "text": "Captain Regent of San Marino",
+            "links": [
+              {
+                "text": "Captain Regent of San Marino",
+                "type": "internal",
+                "page": "List of Captains Regent of San Marino"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 April 2008"
+          },
+          "term_end": {
+            "text": "1 October 2008 Alongside: Rosa Zafferani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rosa Zafferani"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mirko Tomassoni Alberto Selva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mirko Tomassoni"
+              },
+              {
+                "type": "internal",
+                "page": "Alberto Selva"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Ernesto Benedettini Assunta Meloni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ernesto Benedettini"
+              },
+              {
+                "type": "internal",
+                "page": "Assunta Meloni"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 11, 1976"
+          },
+          "birth_place": {
+            "text": "City of San Marino, San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "City of San Marino"
+              },
+              {
+                "type": "internal",
+                "page": "San Marino"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSD",
+            "links": [
+              {
+                "text": "PSD",
+                "type": "internal",
+                "page": "Party of Socialists and Democrats"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

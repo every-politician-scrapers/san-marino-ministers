@@ -1,0 +1,86 @@
+{
+  "title": "Elena Tonnini",
+  "pageID": 67981723,
+  "categories": [
+    "Living people",
+    "1979 births",
+    "Sammarinese women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elena Tonnini (born 2 January 1979) is a politician from the RETE Movement of San Marino who has served as the Secretary of State for Internal Affairs, Civil Service, Institutional Affairs and Relations with the Municipalities since January 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "RETE Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "San Marino"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elena Tonnini"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sammarinese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1979",
+          "month": "02",
+          "day": "02",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Elena Tonnini"
+          },
+          "office": {
+            "text": "Secretary of State for Internal Affairs, Civil Service, Institutional Affairs and Relations with the Municipalities"
+          },
+          "term_start": {
+            "text": "7 January 2020"
+          },
+          "birth_date": {
+            "text": "February 2, 1979"
+          },
+          "birth_place": {
+            "text": "San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Marino"
+              }
+            ]
+          },
+          "party": {
+            "text": "RETE Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "RETE Movement"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

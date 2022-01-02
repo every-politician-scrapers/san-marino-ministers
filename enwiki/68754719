@@ -1,0 +1,148 @@
+{
+  "title": "Giacomo Simoncini",
+  "pageID": 68754719,
+  "categories": [
+    "1994 births",
+    "Living people",
+    "People from Borgo Maggiore",
+    "University of Bologna alumni",
+    "Captains Regent of San Marino",
+    "Members of the Grand and General Council",
+    "Sammarinese Socialist Party politicians",
+    "We for the Republic politicians",
+    "Sammarinese sports executives and administrators"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Giacomo Simoncini (born 30 November 1994) is a Sammarinese sports executive and politician and one of the Captains Regent with Francesco Mussoni.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sammarinese"
+                },
+                {
+                  "type": "internal",
+                  "page": "Captains Regent"
+                },
+                {
+                  "type": "internal",
+                  "page": "Francesco Mussoni"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Giacomo Simoncini"
+                ]
+              }
+            },
+            {
+              "text": "Their joint terms began from 1 October 2021."
+            },
+            {
+              "text": "He is the youngest state leader in the world, and also is the only head of state under 30 years of age as of 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sammarinese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1994",
+          "month": "11",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Giacomo Simoncini"
+          },
+          "image": {
+            "text": "Capitano_Reggente_S._E._Giacomo_Simoncini.jpg"
+          },
+          "office": {
+            "text": "Captain Regent of San Marino",
+            "links": [
+              {
+                "text": "Captain Regent of San Marino",
+                "type": "internal",
+                "page": "List of Captains Regent of San Marino"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 October 2021"
+          },
+          "alongside": {
+            "text": "Francesco Mussoni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francesco Mussoni"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Gian Carlo Venturini Marco Nicolini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gian Carlo Venturini"
+              },
+              {
+                "type": "internal",
+                "page": "Marco Nicolini"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 30, 1994"
+          },
+          "birth_place": {
+            "text": "Borgo Maggiore, San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Borgo Maggiore"
+              },
+              {
+                "type": "internal",
+                "page": "San Marino"
+              }
+            ]
+          },
+          "party": {
+            "text": "Sammarinese Socialist Party",
+            "links": [
+              {
+                "text": "Sammarinese Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party (San Marino)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Bologna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Bologna"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
