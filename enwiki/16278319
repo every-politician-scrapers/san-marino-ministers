@@ -14,9 +14,6 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "Federico Pedini Amati (born 11 August 1976) is a political figure from San Marino.",
@@ -35,16 +32,11 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:FedericoPediniAmati.png",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/FedericoPediniAmati.png?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/FedericoPediniAmati.png",
-          "caption": "Federico Pedini Amati",
-          "links": []
-        }
-      ],
       "templates": [
+        {
+          "description": "Sammarinese politician",
+          "template": "short description"
+        },
         {
           "year": "1976",
           "month": "08",
@@ -58,8 +50,8 @@
           "name": {
             "text": "Federico Pedini Amati"
           },
-          "imagesize": {
-            "text": "150px"
+          "image": {
+            "text": "File:FedericoPediniAmati.png"
           },
           "order": {
             "text": "Captain Regent of San Marino",
