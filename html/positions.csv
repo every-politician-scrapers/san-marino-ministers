@@ -2,7 +2,7 @@ id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q258045,Captain Regent of San Marino,Q238,Q238,,Q10638019,,,,,Captains Regent
 Q3954367,Secretary for Foreign and Political Affairs,Q238,Q238,,Q21985190,,,,,San Marino Secretary for Foreign Affairs
 Q3954368,Secretary for Internal Affairs,Q238,,,,,,,,
-Q3954377,Secretary for Finance and Budget,Q238,,,,,,,,
+Q3954377,Secretary for Finance and Budget,Q238,Q238,,,,,,,San Marino Secretary for Finance and Budget
 Q3954372,Secretary for Industry and Crafts,Q238,,,,,,,,
 Q3954371,Secretary for the Territory and the Environment,Q238,,,,,,,,
 Q3954373,Secretary for Tourism,Q238,,,,,,,,
