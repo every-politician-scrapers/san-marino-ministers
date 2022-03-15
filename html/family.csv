@@ -1,0 +1,6 @@
+id,name,relationship,relative,relativename
+Q16549371,Gian Nicola Berti,child,Q107697007,Gian Marco Berti
+Q16549371,Gian Nicola Berti,sibling,Q289413,Maria Luisa Berti
+Q289413,Maria Luisa Berti,sibling,Q16549371,Gian Nicola Berti
+Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
+Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
