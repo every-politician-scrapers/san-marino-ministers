@@ -1,0 +1,125 @@
+{
+  "title": "Elena Tonnini",
+  "pageID": 67981723,
+  "categories": [
+    "Living people",
+    "1979 births",
+    "Sammarinese women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elena Tonnini (born 2 January 1979) is a politician from the RETE Movement of San Marino who has served as the Secretary of State for Internal Affairs, Civil Service, Institutional Affairs and Relations with the Municipalities since January 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "RETE Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "San Marino"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elena Tonnini"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sammarinese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1979",
+          "month": "02",
+          "day": "02",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Elena Tonnini"
+          },
+          "office": {
+            "text": "Secretary of State for Internal Affairs, Civil Service, Institutional Affairs and Relations with the Municipalities"
+          },
+          "term_start": {
+            "text": "7 January 2020"
+          },
+          "birth_date": {
+            "text": "February 2, 1979"
+          },
+          "birth_place": {
+            "text": "San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Marino"
+              }
+            ]
+          },
+          "party": {
+            "text": "RETE Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "RETE Movement"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Il Segretario di Stato - Segreteria di Stato per gli Affari Interni",
+          "url": "http://www.interni.segreteria.sm/on-line/home/segreteria-di-stato/il-segretario-di-stato.html",
+          "website": "www.interni.segreteria.sm",
+          "publisher": "San Marino State Secretariat",
+          "lang": "it",
+          "access-date": "18 June 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Piretti",
+          "first1": "Marcella",
+          "title": "Intervista ad Elena Tonnini",
+          "url": "https://www.dire.it/08-11-2016/88226-intervista-ad-elena-tonnini/",
+          "website": "Dire.it",
+          "access-date": "18 June 2021",
+          "language": "it",
+          "date": "8 November 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sanmarino-politician-stub"
+        }
+      ]
+    }
+  ]
+}

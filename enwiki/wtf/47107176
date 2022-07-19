@@ -1,0 +1,180 @@
+{
+  "title": "Andrea Belluzzi",
+  "pageID": 47107176,
+  "categories": [
+    "1968 births",
+    "Captains Regent of San Marino",
+    "Members of the Grand and General Council",
+    "Living people",
+    "Party of Socialists and Democrats politicians",
+    "Sammarinese lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Andrea Belluzzi (born 23 March 1968) is a Sammarinese politician who served as a Captain Regent with Roberto Venturini, from April to October 2015.",
+              "links": [
+                {
+                  "text": "Sammarinese",
+                  "type": "internal",
+                  "page": "San Marino"
+                },
+                {
+                  "type": "internal",
+                  "page": "Captain Regent"
+                },
+                {
+                  "type": "internal",
+                  "page": "Roberto Venturini"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Andrea Belluzzi"
+                ]
+              }
+            },
+            {
+              "text": "He was previously a member of the Grand and General Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grand and General Council"
+                }
+              ]
+            },
+            {
+              "text": "He works as a lawyer, is married, and has a son."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sammarinese politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1968",
+          "month": "3",
+          "day": "23",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Andrea Belluzzi"
+          },
+          "image": {
+            "text": "Andrea Belluzzi.jpg"
+          },
+          "office": {
+            "text": "Captain Regent of San Marino",
+            "links": [
+              {
+                "text": "Captain Regent of San Marino",
+                "type": "internal",
+                "page": "List of Captains Regent of San Marino"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "Roberto Venturini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roberto Venturini"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 April 2015"
+          },
+          "term_end": {
+            "text": "1 October 2015"
+          },
+          "predecessor": {
+            "text": "Gianfranco Terenzi Guerrino Zanotti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gianfranco Terenzi"
+              },
+              {
+                "type": "internal",
+                "page": "Guerrino Zanotti"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Nicola Renzi Lorella Stefanelli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Renzi"
+              },
+              {
+                "type": "internal",
+                "page": "Lorella Stefanelli"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 23, 1968"
+          },
+          "birth_place": {
+            "text": "San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Marino"
+              }
+            ]
+          },
+          "party": {
+            "text": "Party of Socialists and Democrats",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Party of Socialists and Democrats"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.romagnanoi.it/news/san-marino/1216485/Andrea-Belluzzi-e-Roberto-Venturini-saranno.html",
+          "title": "Andrea Belluzzi e Roberto Venturini saranno i prossimi Capitani Reggenti",
+          "work": "romagnanoi.it",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.romagnanoi.it/news/home/1216999/Cerimonia-del-1--aprile-e.html",
+          "title": "Cerimonia del 1° aprile e serrata",
+          "work": "romagnanoi.it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

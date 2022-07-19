@@ -1,0 +1,224 @@
+{
+  "title": "Luca Beccari",
+  "pageID": 42433024,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "People from City of San Marino",
+    "Captains Regent of San Marino",
+    "Members of the Grand and General Council",
+    "Sammarinese Christian Democratic Party politicians",
+    "Secretaries of State for Foreign and Political Affairs of San Marino"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Luca Beccari (born 29 October 1974) is a Sammarinese politician who served as co-Captain Regent for a six-month term in 2014, alongside Valeria Ciavatta.",
+              "links": [
+                {
+                  "text": "Sammarinese",
+                  "type": "internal",
+                  "page": "San Marino"
+                },
+                {
+                  "type": "internal",
+                  "page": "Captain Regent"
+                },
+                {
+                  "type": "internal",
+                  "page": "Valeria Ciavatta"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Luca Beccari"
+                ]
+              }
+            },
+            {
+              "text": "He is a resident of Serravalle and a former official with the Central Bank of San Marino.",
+              "links": [
+                {
+                  "text": "Serravalle",
+                  "type": "internal",
+                  "page": "Serravalle (San Marino)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central Bank of San Marino"
+                }
+              ]
+            },
+            {
+              "text": "He has been a Christian Democrat since 1993, and joined the Grand and General Council in 2012.",
+              "links": [
+                {
+                  "text": "Christian Democrat",
+                  "type": "internal",
+                  "page": "Sammarinese Christian Democratic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Grand and General Council"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sammarinese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1974",
+          "month": "10",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Luca Beccari"
+          },
+          "image": {
+            "text": "Luca Beccari San Marino (cropped).jpg"
+          },
+          "office": {
+            "text": "Secretary of State for Foreign Affairs",
+            "links": [
+              {
+                "text": "Secretary of State for Foreign Affairs",
+                "type": "internal",
+                "page": "San Marino Secretary for Foreign Affairs"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 January 2020"
+          },
+          "predecessor": {
+            "text": "Nicola Renzi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Renzi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Captain Regent of San Marino",
+            "links": [
+              {
+                "text": "Captain Regent of San Marino",
+                "type": "internal",
+                "page": "List of Captains Regent of San Marino"
+              }
+            ]
+          },
+          "alongside1": {
+            "text": "Valeria Ciavatta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Valeria Ciavatta"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 April 2014"
+          },
+          "term_end1": {
+            "text": "1 October 2014"
+          },
+          "predecessor1": {
+            "text": "Gian Carlo Capicchioni Anna Maria Muccioli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gian Carlo Capicchioni"
+              },
+              {
+                "type": "internal",
+                "page": "Anna Maria Muccioli"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Gianfranco Terenzi Guerrino Zanotti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gianfranco Terenzi"
+              },
+              {
+                "type": "internal",
+                "page": "Guerrino Zanotti"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 29, 1974"
+          },
+          "birth_place": {
+            "text": "City of San Marino, San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "City of San Marino"
+              },
+              {
+                "type": "internal",
+                "page": "San Marino"
+              }
+            ]
+          },
+          "party": {
+            "text": "Sammarinese Christian Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sammarinese Christian Democratic Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.pdcs.sm/COMUNICATI-STAMPA/beccari-luca-candidato-della-lista-pdcs-ns-a-capitano-reggente.html",
+          "title": "Archived copy",
+          "access-date": "2014-04-08",
+          "archive-url": "https://web.archive.org/web/20160304053741/http://www.pdcs.sm/COMUNICATI-STAMPA/beccari-luca-candidato-della-lista-pdcs-ns-a-capitano-reggente.html",
+          "archive-date": "2016-03-04",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "heads of government of republics"
+        },
+        {
+          "template": "sanmarino-politician-stub"
+        }
+      ]
+    }
+  ]
+}

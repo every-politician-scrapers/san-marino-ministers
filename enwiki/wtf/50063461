@@ -1,0 +1,164 @@
+{
+  "title": "Massimo Andrea Ugolini",
+  "pageID": 50063461,
+  "categories": [
+    "1978 births",
+    "Captains Regent of San Marino",
+    "Members of the Grand and General Council",
+    "Sammarinese Christian Democratic Party politicians",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Massimo Andrea Ugolini (born 26 July 1978) is a politician who served as a Captain Regent of San Marino (alongside Gian Nicola Berti).",
+              "links": [
+                {
+                  "text": "Captain Regent",
+                  "type": "internal",
+                  "page": "List of Captains Regent of San Marino"
+                },
+                {
+                  "type": "internal",
+                  "page": "San Marino"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gian Nicola Berti"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Massimo Andrea Ugolini"
+                ]
+              }
+            },
+            {
+              "text": "He was in office from 1 April 2016 to 1 October 2016 and is a member of the Sammarinese Christian Democratic Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sammarinese Christian Democratic Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1978",
+          "month": "7",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Massimo Andrea Ugolini"
+          },
+          "office": {
+            "text": "Captain Regent of San Marino",
+            "links": [
+              {
+                "text": "Captain Regent of San Marino",
+                "type": "internal",
+                "page": "List of Captains Regent of San Marino"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 April 2016"
+          },
+          "term_end": {
+            "text": "1 October 2016 Served with Gian Nicola Berti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gian Nicola Berti"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Lorella Stefanelli Nicola Renzi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lorella Stefanelli"
+              },
+              {
+                "type": "internal",
+                "page": "Nicola Renzi"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Marino Riccardi Fabio Berardi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marino Riccardi"
+              },
+              {
+                "type": "internal",
+                "page": "Fabio Berardi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 26, 1978"
+          },
+          "party": {
+            "text": "Christian Democratic Party",
+            "links": [
+              {
+                "text": "Christian Democratic Party",
+                "type": "internal",
+                "page": "Sammarinese Christian Democratic Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.reggenzadellarepubblica.sm/on-line/home/scheda19147745.html",
+          "title": "Reggenza della Republica",
+          "publisher": "Republic of San Marino",
+          "language": "Italian",
+          "accessdate": "6 April 2016",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20160417131916/http://www.reggenzadellarepubblica.sm/on-line/home/scheda19147745.html",
+          "archivedate": "17 April 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.reggenzadellarepubblica.sm/on-line/home/scheda19147788.html?comeback=/on-line/home.html",
+          "title": "Cerimonia di insediamento degli Eccellentissimi Capitani Reggenti Gian Nicola Berti e Massimo Andrea Ugolini",
+          "publisher": "Republic of San Marino",
+          "language": "Italian",
+          "accessdate": "6 April 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

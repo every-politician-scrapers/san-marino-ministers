@@ -1,0 +1,185 @@
+{
+  "title": "Teodoro Lonfernini",
+  "pageID": 37635259,
+  "categories": [
+    "1976 births",
+    "Captains Regent of San Marino",
+    "Living people",
+    "Members of the Grand and General Council",
+    "Sammarinese Christian Democratic Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Teodoro Lonfernini (born 12 May 1976) is a Sammarinese politician and former Captain Regent.",
+              "links": [
+                {
+                  "text": "Sammarinese",
+                  "type": "internal",
+                  "page": "San Marino"
+                },
+                {
+                  "type": "internal",
+                  "page": "Captain Regent"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Teodoro Lonfernini"
+                ]
+              }
+            },
+            {
+              "text": "He held the post from 1 October 2012 to 1 April 2013, with Denise Bronzetti.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Denise Bronzetti"
+                }
+              ]
+            },
+            {
+              "text": "He was previously a member of the Grand and General Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grand and General Council"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lonfernini was the second captain regent of this name, the previous one having served in 1944–1945; see List of Captains Regent of San Marino.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "List of Captains Regent of San Marino"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1976",
+          "month": "5",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Teodoro Lonfernini"
+          },
+          "office": {
+            "text": "Captain Regent of San Marino",
+            "links": [
+              {
+                "text": "Captain Regent of San Marino",
+                "type": "internal",
+                "page": "List of Captains Regent of San Marino"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "Denise Bronzetti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denise Bronzetti"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 October 2012"
+          },
+          "term_end": {
+            "text": "1 April 2013"
+          },
+          "predecessor": {
+            "text": "Italo Righi\nMaurizio Rattini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Italo Righi"
+              },
+              {
+                "type": "internal",
+                "page": "Maurizio Rattini"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Antonella Mularoni\nDenis Amici",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antonella Mularoni"
+              },
+              {
+                "type": "internal",
+                "page": "Denis Amici"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 12, 1976"
+          },
+          "birth_place": {
+            "text": "San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Marino"
+              }
+            ]
+          },
+          "party": {
+            "text": "Sammarinese Christian Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sammarinese Christian Democratic Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.sanmarinofixing.com/smfixing/categorie/politica/8531--ecco-chi-sono-teodoro-lonfernini-e-denise-bronzetti-nuovi-capitani-reggenti-di-smarino.html",
+          "title": "Ecco chi sono Teodoro Lonfernini e Denise Bronzetti, nuovi Capitani Reggenti di S.Marino",
+          "website": "www.sanmarinofixing.com",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20120921203347/http://www.sanmarinofixing.com/smfixing/categorie/politica/8531--ecco-chi-sono-teodoro-lonfernini-e-denise-bronzetti-nuovi-capitani-reggenti-di-smarino.html",
+          "archive-date": "2012-09-21}} |undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "sanmarino-politician-stub"
+        }
+      ]
+    }
+  ]
+}

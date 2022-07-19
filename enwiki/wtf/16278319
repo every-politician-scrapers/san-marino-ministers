@@ -1,0 +1,245 @@
+{
+  "title": "Federico Pedini Amati",
+  "pageID": 16278319,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "Captains Regent of San Marino",
+    "Members of the Grand and General Council",
+    "Party of Socialists and Democrats politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Federico Pedini Amati (born 11 August 1976) is a political figure from San Marino.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "San Marino"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Federico Pedini Amati"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sammarinese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1976",
+          "month": "08",
+          "day": "11",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Federico Pedini Amati"
+          },
+          "image": {
+            "text": "File:FedericoPediniAmati.png"
+          },
+          "order": {
+            "text": "Captain Regent of San Marino",
+            "links": [
+              {
+                "text": "Captain Regent of San Marino",
+                "type": "internal",
+                "page": "List of Captains Regent of San Marino"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 April 2008"
+          },
+          "term_end": {
+            "text": "1 October 2008 Alongside: Rosa Zafferani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rosa Zafferani"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mirko Tomassoni Alberto Selva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mirko Tomassoni"
+              },
+              {
+                "type": "internal",
+                "page": "Alberto Selva"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Ernesto Benedettini Assunta Meloni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ernesto Benedettini"
+              },
+              {
+                "type": "internal",
+                "page": "Assunta Meloni"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 11, 1976"
+          },
+          "birth_place": {
+            "text": "City of San Marino, San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "City of San Marino"
+              },
+              {
+                "type": "internal",
+                "page": "San Marino"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSD",
+            "links": [
+              {
+                "text": "PSD",
+                "type": "internal",
+                "page": "Party of Socialists and Democrats"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Captain Regent",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He served as Captain Regent of San Marino for the term from 1 April 2008 to October 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Captain Regent"
+                },
+                {
+                  "type": "internal",
+                  "page": "San Marino"
+                }
+              ]
+            },
+            {
+              "text": "As joint head of state according to the country's constitution, he served together with Rosa Zafferani.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rosa Zafferani"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political affiliation",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pedini is a member of the Party of Socialists and Democrats.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Party of Socialists and Democrats"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Politics of San Marino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of San Marino"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "sanmarino-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Index Pe-Ph. Rulers.org. Accessed 2011-03-03.",
+            "links": [
+              {
+                "text": "Index Pe-Ph",
+                "type": "external",
+                "site": "http://rulers.org/indexp2.html"
+              }
+            ]
+          },
+          {
+            "text": "April 2008. Rulers.org. Accessed 2011-03-03.",
+            "links": [
+              {
+                "text": "April 2008",
+                "type": "external",
+                "site": "http://rulers.org/2008-04.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
