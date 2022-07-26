@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Captains Regent of San Marino"
+      ],
+      "stated_as": "Captain Regent of San Marino"
+    },
+    "P580": "2016-04-01",
+    "P1365": {
+      "links": [
+        "Lorella Stefanelli",
+        "Nicola Renzi"
+      ],
+      "stated_as": "Lorella Stefanelli Nicola Renzi"
+    },
+    "P582": "2016-10-01",
+    "P1366": {
+      "links": [
+        "Marino Riccardi",
+        "Fabio Berardi"
+      ],
+      "stated_as": "Marino Riccardi Fabio Berardi"
+    }
+  }
+]

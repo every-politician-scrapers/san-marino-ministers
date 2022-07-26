@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Captains Regent of San Marino"
+      ],
+      "stated_as": "Captain Regent of San Marino"
+    },
+    "P580": "2014-04-01",
+    "P1365": {
+      "links": [
+        "Gian Carlo Capicchioni",
+        "Anna Maria Muccioli"
+      ],
+      "stated_as": "Gian Carlo Capicchioni Anna Maria Muccioli"
+    },
+    "P582": "2014-10-01",
+    "P1366": {
+      "links": [
+        "Gianfranco Terenzi",
+        "Guerrino Zanotti"
+      ],
+      "stated_as": "Gianfranco Terenzi Guerrino Zanotti"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "San Marino Secretary for Foreign Affairs"
+      ],
+      "stated_as": "Secretary of State for Foreign Affairs"
+    },
+    "P580": "2020-01-07",
+    "P1365": {
+      "links": [
+        "Nicola Renzi"
+      ],
+      "stated_as": "Nicola Renzi"
+    }
+  }
+]

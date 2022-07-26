@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Captains Regent of San Marino"
+      ],
+      "stated_as": "Captain Regent of San Marino"
+    },
+    "P580": "2009-04-01",
+    "P1365": {
+      "links": [
+        "Ernesto Benedettini",
+        "Assunta Meloni"
+      ],
+      "stated_as": "Ernesto Benedettini Assunta Meloni"
+    },
+    "P582": "2009-10-01",
+    "P1366": {
+      "links": [
+        "Stefano Palmieri",
+        "Francesco Mussoni"
+      ],
+      "stated_as": "Stefano Palmieri Francesco Mussoni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Captains Regent of San Marino"
+      ],
+      "stated_as": "Captain Regent of San Marino"
+    },
+    "P580": "2022-04-01",
+    "P1365": {
+      "links": [
+        "Giacomo Simoncini",
+        "Francesco Mussoni"
+      ],
+      "stated_as": "Giacomo Simoncini Francesco Mussoni"
+    }
+  }
+]
