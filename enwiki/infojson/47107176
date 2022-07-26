@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Captains Regent of San Marino"
+      ],
+      "stated_as": "Captain Regent of San Marino"
+    },
+    "P580": "2015-04-01",
+    "P1365": {
+      "links": [
+        "Gianfranco Terenzi",
+        "Guerrino Zanotti"
+      ],
+      "stated_as": "Gianfranco Terenzi Guerrino Zanotti"
+    },
+    "P582": "2015-10-01",
+    "P1366": {
+      "links": [
+        "Nicola Renzi",
+        "Lorella Stefanelli"
+      ],
+      "stated_as": "Nicola Renzi Lorella Stefanelli"
+    }
+  }
+]

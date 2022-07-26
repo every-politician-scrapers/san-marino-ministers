@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Captains Regent of San Marino"
+      ],
+      "stated_as": "Captain Regent of San Marino"
+    },
+    "P580": "2008-04-01",
+    "P1365": {
+      "links": [
+        "Mirko Tomassoni",
+        "Alberto Selva"
+      ],
+      "stated_as": "Mirko Tomassoni Alberto Selva"
+    },
+    "P582": "2008-10-01",
+    "P1366": {
+      "links": [
+        "Ernesto Benedettini",
+        "Assunta Meloni"
+      ],
+      "stated_as": "Ernesto Benedettini Assunta Meloni"
+    }
+  }
+]
